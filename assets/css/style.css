@@ -43,6 +43,21 @@ h1 {
 
 }
 
+#menu {
+    list-style: none;
+    letter-spacing: 4px;
+    font-size: 110%;
+}
+
+#menu li {
+    margin-top: 1em;
+
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
+
 /* Main */
 main {
     background-color: lightblue;
